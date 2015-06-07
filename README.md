@@ -1,2 +1,2 @@
-# wshizhx.github.net
+# wshizhx.github.io
 wshizhx's blog
